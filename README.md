@@ -1,4 +1,4 @@
-<a href="https://https://github.com/HydreNoire"><img width="50%" alt="Code Girl" src="./assets/cover.jpg" /></a>
+<a href="https://https://github.com/HydreNoire"><img width="100%" alt="Code Girl" src="./assets/cover.jpg" /></a>
 <p>Hello I'm Lise 25 yrs old from 🇫🇷</p>
 <ul>
   <li>😄 Pronouns <strong>She/Her</strong> </li>
