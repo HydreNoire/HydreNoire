@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://https://github.com/HydreNoire"><img width="70%" alt="Code Girl" src="./assets/cover.jpg" /></a>
 
 <!--
 **HydreNoire/HydreNoire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
