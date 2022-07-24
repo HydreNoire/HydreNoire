@@ -1,7 +1,8 @@
 <a href="https://https://github.com/HydreNoire"><img width="100%" alt="Code Girl" src="./assets/cover.jpg" /></a>
 
 # 🚀 About
-<h2>Hello I'm Lise 25 yrs old from 📍 Lyon in 🇫🇷</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=E1DBCF&background=3235616E&center=true&vCenter=true&lines=Hello+Word+!+%F0%9F%91%8B)](https://git.io/typing-svg)
+<h2>I'm Lise 25 yrs old from 📍 Lyon in 🇫🇷</h2>
 <ul>
   <li>😄 Pronouns <strong>She/Her</strong> </li>
   <li>🌱 I’m currently learning <strong>Symfony</strong> </li>
