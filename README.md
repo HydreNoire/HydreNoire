@@ -8,4 +8,10 @@
   <li>👯 I’m looking for <strong>an internship in Lyon</strong> </li>
 </ul>
 
-<hr>
+# ✔️ Tasks
+- [x] Born
+- [ ] Finish my Training
+- [ ] Becoming a professional developer
+- [ ] Got a job
+- [ ] Finish a nice perfect personal project
+- [ ] Die
