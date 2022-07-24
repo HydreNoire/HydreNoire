@@ -10,6 +10,7 @@
 
 # ✔️ Tasks
 - [x] Born
+- [x] Making me a really good coffee
 - [ ] Finish my Training
 - [ ] Becoming a professional developer
 - [ ] Got a job
