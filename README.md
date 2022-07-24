@@ -19,12 +19,7 @@
 - [ ] Die
 
 # 🛠 Tech Stack
-- `.html`
-- `.css`
-- `.sass`
-- `.js`
-- `.php`
-- `.symfony`
+`.html`, `.css`, `.sass`, `.js`, `.php`, `.symfony`
 
 # 🎶 Now Listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11148031825&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11148031825&redirect=true)
