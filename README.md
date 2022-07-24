@@ -2,7 +2,7 @@
 
 # 🚀 About
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=E1DBCF&background=3235616E&center=true&vCenter=true&lines=Hello+Word+!+%F0%9F%91%8B)](https://git.io/typing-svg)
-<h2>I'm Lise 25 yrs old from 📍 Lyon in 🇫🇷</h2>
+<p>I'm Lise 25 yrs old from 📍 Lyon in 🇫🇷</p>
 <ul>
   <li>😄 Pronouns <strong>She/Her</strong> </li>
   <li>🌱 I’m currently learning <strong>Symfony</strong> </li>
