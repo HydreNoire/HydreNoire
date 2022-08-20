@@ -13,11 +13,10 @@
 # ✔️ Tasks
 - [x] Born
 - [x] Making me a really good coffee
-- [ ] Finish my Training
-- [ ] Becoming a professional developer
-- [ ] Got a job
+- [ ] Finish my training
+- [ ] Becoming a junior developer
 - [ ] Finish a nice perfect personal project
-- [ ] Die
+- [ ] Get a job
 
 # 📊 This week i spent my time on:
 ```text
