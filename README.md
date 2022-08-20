@@ -20,14 +20,14 @@
 
 # 📊 This week i spent my time on:
 ```text
-Symfony    5 hrs           ████████░░░░░░  
-PHP        3hrs 30 mins    █████░░░░░░░░░░░░░░░░░░░░   
-HTML       1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   
-Other      50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   
+Figma      4 hrs           ████████░░░░░░  
+Photoshop  5 hrs 20min     █████░░░░░░░░░░░░░░░░░░░░   
+HTML       4 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   
+CSS        3hrs 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   
 ```
 
 # 🛠 Tech Stack
-`.html`, `.css`, `.sass`, `.js`, `.php`, `.symfony`
+`.html` `.css` `.sass` `.js` `.php` `.symfony`
 
 # 🎶 Now Listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11148031825&cover_image=true&theme=novatorem&bar_color=323561&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
