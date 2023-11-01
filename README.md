@@ -25,9 +25,12 @@ React Project      2h 30 min
 ```
 
 # 🛠 Tech Stack
-`.html` `.css` `.sass` `.bootstrap` `.tailwind` 
+`.html` `.css` `.sass` `.bootstrap` `.tailwind`
+<hr>
 `.js` `.jquery` `.react` `.redux`
+<hr>
 `.php` `.symfony` 
+<hr>
 `.wordpress` 
 
 # 🎶 Now Listening
