@@ -28,7 +28,7 @@ Learn React 2 hrs 30min
 ```
 
 # 🛠 Tech Stack
-`.html` `.css` `.sass` `.bootstrap` `.js` `.php` `.symfony` `.wordpress`
+`.html` `.css` `.sass` `.bootstrap` `.js` `.php` `.symfony` `.wordpress` `.react` `.redux`
 
 # 🎶 Now Listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11148031825&cover_image=true&theme=novatorem&bar_color=323561&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
