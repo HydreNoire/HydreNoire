@@ -1,13 +1,12 @@
 <!DOCTYPE html >
 <html>
 <head>
-   <script>
-      document.write("An Inline Javascript code to display an array")
-      document.write("<br>")
-      const inputArray = [3,4,5,6,7,8]
-      document.write("The array is defined as :", inputArray)
-   </script>
-	
+  ```javascript
+	function ageByYear() {
+		let today = new Date();
+		return today.getFullYear() - 1997;
+	}
+  ```
 </head>
 <a align="center" height="400" href="https://https://github.com/HydreNoire"><img width="100%" alt="Code Girl" src="./assets/cover.jpg" /></a>
 
