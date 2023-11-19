@@ -1,3 +1,14 @@
+<!DOCTYPE html >
+<html>
+<head>
+   <script>
+      document.write("An Inline Javascript code to display an array")
+      document.write("<br>")
+      const inputArray = [3,4,5,6,7,8]
+      document.write("The array is defined as :", inputArray)
+   </script>
+	
+</head>
 <a align="center" height="400" href="https://https://github.com/HydreNoire"><img width="100%" alt="Code Girl" src="./assets/cover.jpg" /></a>
 
 # 🚀 About
@@ -69,10 +80,4 @@ React Project      2h 30 min
 
 # 🎶 Now Listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11148031825&cover_image=true&theme=novatorem&bar_color=323561&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-<script>
-	function ageByYear() {
-		let today = new Date();
-		return today.getFullYear() - 1997;
-	}
-</script>
+</html>
