@@ -2,7 +2,7 @@
 
 # 🚀 About
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=E1DBCF&background=3235616E&center=true&vCenter=true&lines=Hello+Word+!+%F0%9F%91%8B)](https://git.io/typing-svg)
-<p>I'm Lise 25 yrs old from 📍 Lyon in 🇫🇷</p>
+<p>I'm Lise <span id="age" onload="ageByYear()"></span> yrs old from 📍 Lyon in 🇫🇷</p>
 <ul>
   <li>😄 Pronouns <strong>She/Her</strong> </li>
   <li>🌱 I’m currently learning <strong>Symfony</strong> </li>
@@ -69,3 +69,10 @@ React Project      2h 30 min
 
 # 🎶 Now Listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11148031825&cover_image=true&theme=novatorem&bar_color=323561&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<script>
+	function ageByYear() {
+		let today = new Date();
+		return today.getFullYear() - 1997;
+	}
+</script>
