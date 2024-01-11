@@ -1,6 +1,6 @@
 <!DOCTYPE html >
 <html>
-<a align="center" height="400" href="https://https://github.com/HydreNoire"><img width="100%" alt="Code Girl" src="./assets/cover.jpg" /></a>
+<a align="center" height="400" href="https://https://github.com/HydreNoire"><img width="100%" alt="Code Girl" src="./assets/profile_picture.jfif" /></a>
 
 # 🚀 About
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=E1DBCF&background=3235616E&center=true&vCenter=true&lines=Hello+Word+!+%F0%9F%91%8B)](https://git.io/typing-svg)
