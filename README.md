@@ -2,7 +2,6 @@
 <html>
 <a align="center" height="400" href="https://https://github.com/HydreNoire"><img width="50%" alt="Code Girl" src="./assets/profile_picture.jfif" /></a>
 
-<div width="50%">
 # 🚀 About
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=E1DBCF&background=3235616E&center=true&vCenter=true&lines=Hello+Word+!+%F0%9F%91%8B)](https://git.io/typing-svg)
 <p>I'm Lise 26 yrs old from 📍 Lyon in 🇫🇷</p>
@@ -12,7 +11,6 @@
   <li>👯 I’m looking for <strong>an internship in Lyon</strong> </li>
   <li>📧 If you want to reach me -> </li>
 </ul>
-</div>
 
 # ✔️ Tasks
 - [x] Born
