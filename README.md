@@ -8,7 +8,7 @@
 <ul>
   <li>😄 Pronouns <strong>She/Her</strong> </li>
   <li>🌱 I’m currently learning <strong>NodeJS / Express</strong> </li>
-  <li>👯 I’m looking for <strong>an internship in Lyon</strong> </li>
+  <li>👯 I’m open to any job offer </li>
   <li>📧 If you want to reach me -> </li>
 </ul>
 
