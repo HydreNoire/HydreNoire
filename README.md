@@ -22,8 +22,8 @@
 
 # 📊 This week i spent my time on:
 ```text
-Being at work      28h
-React Project      2h 30 min
+Being at work           28h
+Create an API REST      8h45 min
 ```
 
 # 🛠 Tech Stack
